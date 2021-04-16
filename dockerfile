@@ -1,4 +1,4 @@
-FROM apt-test-3
+FROM debian:10.9
 MAINTAINER pizepei "pizepei@pizepei.com"
 SHELL ["/bin/sh", "-c"],
 ENV LANG=C.UTF-8
